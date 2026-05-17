@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Aditya</h1>
-<h3 align="left">A II year computer science student from India</h3>
+<h3 align="left">A III year computer science student from India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/31365698/215766037-54403913-12c6-48a2-a58a-6090e1ea9f19.gif">
 
 
